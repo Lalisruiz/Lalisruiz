@@ -67,9 +67,9 @@ I organize my learning in practice and challenge repositories. There you will fi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalisruiz&bg_color=fff7e6&color=FFA500&line=FF8C00&point=FFA500&area=true&area_color=FFD580&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalisruiz&bg_color=0d1117&color=FFD700&line=FFA500&point=FFD700&area=true&area_color=FFA500&hide_border=true" alt="activity graph" />
 
-  <img src="https://streak-stats.demolab.com?user=Lalisruiz&locale=en&mode=weekly&theme=orange&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://streak-stats.demolab.com?user=Lalisruiz&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&currStreakNum=FFA500&dates=FFA500&sideLabels=FFA500" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=Lalisruiz&theme=flat&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true&title=FFA500&color=FFA500" height="150" alt="trophy graph"  />
 </div>
 
