@@ -1,4 +1,18 @@
-# Olá, eu sou a Larissa!
+# Multilanguage README
+
+<div align="left">
+  <a href="https://github.com/Lalisruiz/lalisruiz/blob/main/README.md">
+    <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
+  </a>
+  <a href="https://github.com/Lalisruiz/lalisruiz/blob/main/README.pt-br.md">
+    <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="README em Português" />
+  </a>
+</div>
+
+
+# Olá, eu sou a Larissa Ruiz!
+
+<img src="https://raw.githubusercontent.com/GabrielBrotas/illustrations/main/girl-computer-dog.png" alt="ilustração de uma menina loira no computador com um cachorro boxer" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left">
   Desenvolvedora Full Stack em formação, apaixonada por tecnologia, aprendizado contínuo e criação de soluções com propósito. <br>
@@ -14,7 +28,7 @@
 - 📚 Estudando **JavaScript, TypeScript, React, Node.js**  
 - 🖥️ Apaixonada por desenvolvimento web fullstack  
 - 🌱 Vegana, apaixonada por treinar, estudar e buscar evolução contínua  
-- 🐶 Tenho quatro cachorros incríveis e sou apaixonada por eles 
+- 🐶 Tenho quatro cachorros e sou apaixonada por eles, e tambem atuo como protetora de animais
 
 ---
 
@@ -27,9 +41,9 @@
 ---
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/SEU-USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&theme=radical"/>
+</a href="https://github.com/Lalisruiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalisruiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisruiz&layout=compact&langs_count=6&theme=radical"/>
 </a>
 
 ---
@@ -47,10 +61,10 @@ Neles você vai encontrar projetos de **front-end, back-end e full stack**, alé
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
 
 ### Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,express,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nestjs)](https://skillicons.dev)
 
-### Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,postgre,insomnia)](https://skillicons.dev)
+### Ferramentas de banco de dados, teste e versionamento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,postgre,mongodb,insomnia)](https://skillicons.dev)
 
 ---
 
@@ -58,14 +72,14 @@ Neles você vai encontrar projetos de **front-end, back-end e full stack**, alé
 
 <p align="left"> 
   Atualmente sou estudante de <strong>Desenvolvimento de Software</strong> e apaixonada por transformar ideias em aplicações funcionais. <br><br>
-  Estou me aprofundando em <strong>JavaScript</strong> e <strong>TypeScript</strong>, com foco em <strong>React</strong> no front-end e <strong>Node.js</strong> no back-end. Também venho explorando <strong>Java</strong>, <strong>Spring Boot</strong> e bancos de dados relacionais como <strong>PostgreSQL</strong> e <strong>MySQL</strong>. <br><br>
+  Estou me aprofundando em <strong>JavaScript</strong> e <strong>TypeScript</strong>, com foco em <strong>React</strong> no front-end e <strong>Node.js</strong> no back-end. Também venho explorando bancos de dados relacionais como <strong>PostgreSQL</strong> e <strong>MySQL</strong>, além de bancos não relacionais como <strong>MongoDB</strong>. <br><br>
   Minha transição de carreira vem sendo guiada pela curiosidade e pela vontade de criar soluções que possam impactar pessoas de forma positiva ✨
 </p>
 
 ---
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meus projetos! 💌✨
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meus projetos! 💌
 </p>
 
 <p align="left">
@@ -81,7 +95,7 @@ Neles você vai encontrar projetos de **front-end, back-end e full stack**, alé
 
 <div align="center">
   
-  [![Larissa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Larissa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalisruiz&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://streak-stats.demolab.com?user=Lalisruiz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=Lalisruiz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
