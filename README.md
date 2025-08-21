@@ -12,7 +12,7 @@
 
 # Olá, eu sou a Larissa Ruiz!
 
-<img src="https://raw.githubusercontent.com/GabrielBrotas/illustrations/main/girl-computer-dog.png" alt="ilustração de uma menina loira no computador com um cachorro boxer" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="./eu e dogs.jpg" alt="ilustração eu e dogs" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left">
   Desenvolvedora Full Stack em formação, apaixonada por tecnologia, aprendizado contínuo e criação de soluções com propósito. <br>
