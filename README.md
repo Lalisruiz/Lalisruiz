@@ -32,16 +32,8 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## ⭐ GitHub Stats
-</a href="https://github.com/Lalisruiz">
+<a href="https://github.com/Lalisruiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalisruiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisruiz&layout=compact&langs_count=6&theme=radical"/>
 </a>
@@ -63,8 +55,8 @@ Neles você vai encontrar projetos de **front-end, back-end e full stack**, alé
 ### Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nestjs)](https://skillicons.dev)
 
-### Ferramentas de banco de dados, teste e versionamento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,postgre,mongodb,insomnia)](https://skillicons.dev)
+### Ferramentas de banco de dados e versionamento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,postgresql,mongodb)](https://skillicons.dev)
 
 ---
 
