@@ -1,4 +1,4 @@
-
+# MY README
 <div align="left">
   <a href="https://github.com/Lalisruiz/Lalisruiz/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="README em Português" />
   </a>
 </div>
-
 
 # Hi, I'm Larissa Ruiz!
 
@@ -22,19 +21,21 @@
 
 ---
 
-
----
-
 ## About me
 
 - 🎓 Transitioning from **Fashion** to **Technology**  
-- � Studying **JavaScript, TypeScript, React, Node.js**  
-- �️ Passionate about fullstack web development  
+- 📚 Studying **JavaScript, TypeScript, React, Node.js**  
+- 💻 Passionate about fullstack web development  
 - 🌱 Vegan, passionate about working out, studying, and seeking continuous growth  
 - 🐶 I have four dogs, love them, and also work as an animal protector
 
 ---
 
+## ⭐ GitHub Stats
+<a href="https://github.com/Lalisruiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalisruiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisruiz&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
 ---
 
@@ -43,9 +44,6 @@ I organize my learning in practice and challenge repositories.
 There you will find **front-end, back-end, and full stack** projects, as well as course summaries and exercises.  
 
 > I believe learning by building is the best way 🌟
-
----
-
 
 ---
 
@@ -61,7 +59,6 @@ There you will find **front-end, back-end, and full stack** projects, as well as
 
 ---
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -72,13 +69,9 @@ There you will find **front-end, back-end, and full stack** projects, as well as
 
 ---
 
-
----
-
 <p align="left">
   Let's connect? Send me an email, follow me on LinkedIn, or check out my projects! 💌
 </p>
-
 
 <p align="left">
   <a href="mailto:rrs.larissa@gmail.com/" title="Gmail">
@@ -93,6 +86,7 @@ There you will find **front-end, back-end, and full stack** projects, as well as
 </div>
 
 <div align="center">
+
   [![Larissa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalisruiz&bg_color=0d1117&color=FFD700&line=FFA500&point=FFD700&area=true&area_color=FFA500&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://streak-stats.demolab.com?user=Lalisruiz&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&currStreakNum=FFA500&dates=FFA500&sideLabels=FFA500" height="156" alt="streak graph"  /> <br/>
