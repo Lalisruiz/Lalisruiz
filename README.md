@@ -1,7 +1,7 @@
 # Multilanguage README
 
 <div align="left">
-  <a href="https://github.com/Lalisruiz/lalisruiz/blob/main/README.md">
+  <a href="https://github.com/Lalisruiz/Lalisruiz/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
   </a>
   <a href="https://github.com/Lalisruiz/lalisruiz/blob/main/README.pt-br.md">
