@@ -12,7 +12,7 @@
 
 # Olá, eu sou a Larissa Ruiz!
 
-<img src="./eu e dogs.jpg" alt="ilustração eu e dogs" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="./images/eu e dogs.jpg" alt="ilustração eu e dogs" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left">
   Desenvolvedora Full Stack em formação, apaixonada por tecnologia, aprendizado contínuo e criação de soluções com propósito. <br>

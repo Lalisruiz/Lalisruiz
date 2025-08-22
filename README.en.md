@@ -4,7 +4,7 @@
 
 # Hi, I'm Larissa Ruiz!
 
-<img src="./eu e dogs.jpg" alt="me and my dogs illustration" min-width="350px" max-width="350px" width="350px" align="right" style="border: 3px solid orange; border-radius: 12px; box-shadow: 0 0 10px orange;">
+<img src="./images/eu e dogs.jpg" alt="me and my dogs illustration" min-width="350px" max-width="350px" width="350px" align="right" style="border: 3px solid orange; border-radius: 12px; box-shadow: 0 0 10px orange;">
 
 <p align="left">
   Full Stack Developer in training, passionate about technology, continuous learning, and creating purposeful solutions.<br>
