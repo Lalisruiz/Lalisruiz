@@ -28,7 +28,7 @@
 
 ---
 
-## ⭐ GitHub Stats
+## ⭐ GitHub Stats ⭐
 <a href="https://github.com/Lalisruiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalisruiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisruiz&layout=compact&langs_count=6&theme=radical"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📚 Meus estudos
+## Meus estudos
 Organizo meus aprendizados em repositórios de prática e desafios de programação.  
 Neles você vai encontrar projetos de **front-end, back-end e full stack**, além de resumos e exercícios de cursos.  
 
@@ -44,7 +44,7 @@ Neles você vai encontrar projetos de **front-end, back-end e full stack**, alé
 
 ---
 
-## Tecnologias e linguagens 💻
+## Tecnologias e linguagens 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
 
