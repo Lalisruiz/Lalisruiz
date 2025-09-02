@@ -3,7 +3,7 @@
   
 </a>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Lalisruiz/Lalisruiz/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
   </a>
@@ -23,7 +23,7 @@
 ---
 
 <div align="left">
-  <h2>Sobre mim</h2>
+  <h3>Sobre mim</h3>
   <p> - 🎓 Migrando da área de <strong>Moda</strong> para a <strong>Tecnologia</strong> </p>
   <p> - 📚 Estudando <strong>JavaScript, TypeScript, React, Node.js</strong> </p>
   <p> - 🖥️ Apaixonada por desenvolvimento web fullstack</p>  
