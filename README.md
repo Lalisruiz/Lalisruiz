@@ -1,4 +1,4 @@
-# MEU README
+# Olá, eu sou a Larissa Ruiz!
 <div align="left">
   <a href="https://github.com/Lalisruiz/Lalisruiz/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
@@ -8,9 +8,7 @@
   </a>
 </div>
 
-# Olá, eu sou a Larissa Ruiz!
-
-<img src="./images/eu e dogs.jpg" alt="ilustração eu e dogs" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="./images/eu e dogs.jpg" alt="ilustração eu e dogs" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   Desenvolvedora Full Stack em formação, apaixonada por tecnologia, aprendizado contínuo e criação de soluções com propósito. <br>
