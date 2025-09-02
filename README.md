@@ -1,5 +1,9 @@
-# Olá, sou a Larissa Ruiz!
-<div align="left">
+<div align="center">
+   <h1> # Olá, sou a Larissa Ruiz! </h1>
+  
+</a>
+
+<div align="center">
   <a href="https://github.com/Lalisruiz/Lalisruiz/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
   </a>
@@ -8,7 +12,7 @@
   </a>
 </div>
 
-<img src="./images/eu e dogs.jpg" alt="ilustração eu e dogs" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./images/eu e dogs.jpg" alt="ilustração eu e dogs" min-width="420px" max-width="420px" width="420px" align="right">
 
 <p align="left">
   Desenvolvedora Full Stack em formação, apaixonada por tecnologia, aprendizado contínuo e criação de soluções com propósito. <br>
@@ -18,17 +22,22 @@
 
 ---
 
-## Sobre mim
-
-- 🎓 Migrando da área de **Moda** para a **Tecnologia**  
-- 📚 Estudando **JavaScript, TypeScript, React, Node.js**  
-- 🖥️ Apaixonada por desenvolvimento web fullstack  
-- 🌱 Vegana, apaixonada por treinar, estudar e buscar evolução contínua  
-- 🐶 Tenho quatro cachorros e sou apaixonada por eles, e tambem atuo como protetora de animais
+<div align="left">
+  <h2>Sobre mim</h2>
+  <p> - 🎓 Migrando da área de <strong>Moda</strong> para a <strong>Tecnologia</strong> </p>
+  <p> - 📚 Estudando <strong>JavaScript, TypeScript, React, Node.js</strong> </p>
+  <p> - 🖥️ Apaixonada por desenvolvimento web fullstack</p>  
+  <p> - 🌱 Vegana, apaixonada por treinar, estudar e buscar evolução contínua</p>  
+  <p> - 🐶 Tenho quatro cachorros e sou apaixonada por eles, e tambem atuo como protetora de animais</p>
+</div>
 
 ---
 
-## ⭐ GitHub Stats ⭐
+<div align="center">
+  <h2>⭐ GitHub Stats ⭐</h2>
+</a>
+
+<div align="center">
 <a href="https://github.com/Lalisruiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalisruiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisruiz&layout=compact&langs_count=6&theme=radical"/>
