@@ -24,11 +24,11 @@
 
 <div align="left">
   <h3>Sobre mim</h3>
-  <p> - 🎓 Migrando da área de <strong>Moda</strong> para a <strong>Tecnologia</strong> </p>
-  <p> - 📚 Estudando <strong>JavaScript, TypeScript, React, Node.js</strong> </p>
-  <p> - 🖥️ Apaixonada por desenvolvimento web fullstack</p>  
-  <p> - 🌱 Vegana, apaixonada por treinar, estudar e buscar evolução contínua</p>  
-  <p> - 🐶 Tenho quatro cachorros e sou apaixonada por eles, e tambem atuo como protetora de animais</p>
+  <p> 🎓 Migrando da área de <strong>Moda</strong> para a <strong>Tecnologia</strong> </p>
+  <p> 📚 Estudando <strong>JavaScript, TypeScript, React, Node.js</strong> </p>
+  <p> 🖥️ Apaixonada por desenvolvimento web fullstack</p>  
+  <p> 🌱 Vegana, apaixonada por treinar, estudar e buscar evolução contínua</p>  
+  <p> 🐶 Tenho quatro cachorros e sou apaixonada por eles, e tambem atuo como protetora de animais</p>
 </div>
 
 ---
