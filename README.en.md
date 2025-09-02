@@ -1,14 +1,15 @@
 <div align="center">
    <h1>Hello, I'm Larissa Ruiz!</h1>
   
-  <div align="left">
-    <a href="https://github.com/Lalisruiz/Lalisruiz/blob/main/README.en.md">
-      <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
-    </a>
-    <a href="https://github.com/Lalisruiz/lalisruiz/blob/main/README.pt-br.md">
-      <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="README em Português" />
-    </a>
-  </div>
+</a>
+
+<div align="left">
+  <a href="https://github.com/Lalisruiz/Lalisruiz/blob/main/README.en.md">
+    <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English README" />
+  </a>
+  <a href="https://github.com/Lalisruiz/lalisruiz/blob/main/README.pt-br.md">
+    <img src="https://img.shields.io/badge/lang-pt--br-green.svg" alt="README em Português" />
+  </a>
 </div>
 
 <img src="./images/eu e dogs.jpg" alt="me and my dogs illustration" min-width="420px" max-width="420px" width="420px" align="right">
@@ -23,22 +24,24 @@
 
 <div align="left">
   <h3>About me</h3>
-  <p> - 🎓 Transitioning from <strong>Fashion</strong> to <strong>Technology</strong> </p>
-  <p> - 📚 Studying <strong>JavaScript, TypeScript, React, Node.js</strong> </p>
-  <p> - 🖥️ Passionate about fullstack web development</p>  
-  <p> - 🌱 Vegan, passionate about training, studying, and seeking continuous evolution</p>  
-  <p> - 🐶 I have four dogs and I'm passionate about them, and I also work as an animal protector</p>
+  <p>🎓 Transitioning from <strong>Fashion</strong> to <strong>Technology</strong> </p>
+  <p>📚 Studying <strong>JavaScript, TypeScript, React, Node.js</strong> </p>
+  <p>🖥️ Passionate about fullstack web development</p>  
+  <p>🌱 Vegan, passionate about training, studying, and seeking continuous evolution</p>  
+  <p>🐶 I have four dogs and I'm passionate about them, and I also work as an animal protector</p>
 </div>
 
 ---
 
 <div align="center">
   <h2>⭐ GitHub Stats ⭐</h2>
-  <a href="https://github.com/Lalisruiz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalisruiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisruiz&layout=compact&langs_count=6&theme=radical"/>
-  </a>
-</div>
+</a>
+
+<div align="center">
+<a href="https://github.com/Lalisruiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalisruiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisruiz&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
 ---
 
@@ -90,9 +93,9 @@ There you will find **front-end, back-end, and full stack** projects, as well as
 <div align="center">
   
   [![Larissa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalisruiz&bg_color=0d1117&color=FFD700&line=FFA500&point=FFD700&area=true&area_color=FFA500&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="https://streak-stats.demolab.com?
-  user=Lalisruiz&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&currStreakNum=FFA500&dates=FFA500&sideLabels=FFA500" height="156" alt="streak graph" />
-  
+
+  <img src="https://streak-stats.demolab.com?user=Lalisruiz&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFA500&currStreakNum=FFA500&dates=FFA500&sideLabels=FFA500" height="156" alt="streak graph"/>
+
   <img src="https://github-profile-trophy.vercel.app?username=Lalisruiz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
