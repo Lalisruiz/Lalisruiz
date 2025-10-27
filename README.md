@@ -55,7 +55,7 @@ Neles você vai encontrar projetos de **front-end, back-end e full stack**, alé
 
 ## Tecnologias e linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java)](https://skillicons.dev)
 
 ### Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nestjs)](https://skillicons.dev)
